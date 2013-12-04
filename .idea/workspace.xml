@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="723fa50e-8768-413d-ad8b-e7a05d042354" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/string1.py" afterPath="$PROJECT_DIR$/string1.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LearnPython.iws" />
@@ -38,7 +37,7 @@
       <file leaf-file-name="string1.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/string1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="86" column="19" selection-start="2649" selection-end="2649" vertical-scroll-proportion="0.54347825" vertical-offset="1040" max-vertical-offset="1965">
+            <state line="86" column="23" selection-start="2653" selection-end="2653" vertical-scroll-proportion="0.70652175" vertical-offset="965" max-vertical-offset="1965">
               <folding />
             </state>
           </provider>
@@ -336,7 +335,11 @@
       <created>1386166317045</created>
       <updated>1386166317045</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial check in of the string1 exercise from googles python tutorial">
+      <created>1386166865876</created>
+      <updated>1386166865876</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -352,7 +355,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3287483" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3287483" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -396,7 +399,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/string1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="19" selection-start="2649" selection-end="2649" vertical-scroll-proportion="0.54347825" vertical-offset="1040" max-vertical-offset="1965">
+        <state line="86" column="23" selection-start="2653" selection-end="2653" vertical-scroll-proportion="0.70652175" vertical-offset="965" max-vertical-offset="1965">
           <folding />
         </state>
       </provider>
