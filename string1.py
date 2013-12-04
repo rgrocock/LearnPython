@@ -62,7 +62,6 @@ def fix_start(s):
     full = str(sta) + str(fixed)
     return full
 
-
 # D. MixUp
 # Given strings a and b, return a single string with a and b separated
 # by a space '<a> <b>', except swap the first 2 chars of each string.
@@ -71,8 +70,12 @@ def fix_start(s):
 #   'dog', 'dinner' -> 'dig donner'
 # Assume a and b are length 2 or more.
 def mix_up(a, b):
-    # +++your code here+++
-    return
+    first_a = a[0:2]
+    first_b = b[0:2]
+    mix_a = first_b + a[2:]
+    mix_b = first_a + b[2:]
+    full = ' '.join([mix_a, mix_b])
+    return full
 
 
 # Provided simple test() function used in main() to print
